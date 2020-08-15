@@ -3,6 +3,7 @@
 ## Table of Contents
 
 * [Instructions](#instructions)
+* [Usage](#usage)
 * [Contributing](#contributing)
 
 ## Instructions
